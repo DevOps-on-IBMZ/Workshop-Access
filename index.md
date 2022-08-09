@@ -6,19 +6,15 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending this DevOps on IBM Z Workshop. 
 
-[//]: The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf) to view it locally.
-  
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCREQUEST%20%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf) to download the presentation.
 
 ## Accessing the hands-on lab
 
-Click [here](https://github.com/kenishia/NA-ZCONNEE/blob/main/SSA%20Remote%20Lab%20System%20Connection%20Instructions.pdf) to read the instruction for IBM System access.
+Click [here](https://github.com/DevOps-on-IBMZ/Workshop-Access/blob/main/Instructions%20to%20use%20the%20DevOps%20PoT%20remotely_Aug-18-2021.pdf) to read the instructions for IBM System access.
 
-All lab instructions are in the "Lab Docs" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2) to view it locally.
+The workshop workbook is on your remote desktop, or can be downloaded from [here](https://github.com/vcallaghan/Z-DevOps-Workshop-Workbook/blob/main/Workbook%20-%20DevOps%20on%20Z%20PoT%20December%2016-2021.pdf) to view it locally.
 
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/xml) to view it locally.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
@@ -37,4 +33,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Kenishia Callaway](mailto: kenishia@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Wilbert Kho](mailto: wilbert@us.ibm.com) or [Vanessa Callaghan](mailto: vanessa.r.callaghan@ibm.com) and we will help you sort it out.
