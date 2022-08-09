@@ -15,7 +15,9 @@ For the lab portion of the workshop, you will need to connect to a cloud hosted 
 
 Click [here](https://github.com/DevOps-on-IBMZ/Workshop-Access/blob/main/Instructions%20to%20use%20the%20DevOps%20PoT%20remotely_Aug-18-2021.pdf) to read the instructions for IBM System access.
 
-The workshop workbook is on your remote desktop, or can be downloaded from [here](https://github.com/vcallaghan/Z-DevOps-Workshop-Workbook/blob/main/Workbook%20-%20DevOps%20on%20Z%20PoT%20December%2016-2021.pdf) to view it locally.  During the session, we recommend having the workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
+The workshop workbook is on your remote desktop, or can be downloaded from [here](https://github.com/vcallaghan/Z-DevOps-Workshop-Workbook/blob/main/Workbook%20-%20DevOps%20on%20Z%20PoT%20December%2016-2021.pdf) to view it locally.  
+
+During the session, we recommend having the workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
 
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
