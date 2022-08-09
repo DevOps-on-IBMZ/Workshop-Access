@@ -44,8 +44,7 @@ function getLab(email) {
         table_data += '<p>Follow the PDF instructions above and authenticate with username: <br><mark>'+lines[index][4]+'</mark></p>';
         table_data += '<p>Same password: <mark>'+lines[index][5]+'</mark></p>';
 
-        table_data += '<h5>During the lab</h5>';
-        table_data += '<p>The TSO id is <strong<empot01</strong>.  When the password for empot01 is required, enter <mark>empot01</mark></p>';
+        table_data += '<h5>Exiting the lab</h5>';
         table_data += '<p><strong>IMPORTANT: <br>Please DO NOT shutdown remote Windows system, just close the session or disconnect from the remote desktop. Otherwise you won&apos;t be able to reconnect.</strong></p>';
     }
     $('#lab').html(table_data);
