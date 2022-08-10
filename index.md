@@ -9,7 +9,7 @@
 Thank you for attending this DevOps on IBM Z Workshop. On this page, you will find links to lab connection instructions, workshop exercises and connection credentials.  Credentials are unique for each participant.
 
 
-## Accessing the hands-on lab
+## Accessing the hands-on lab instances
 
 For the lab portion of the workshop, you will need to connect to a cloud hosted instance containing the necessary software. It is highly recommended to use remote desktop connection software, available for free on Mac and Windows. (Note: Windows by default should have "Remote Desktop Connection" installed, ready to use.)  Connection information will be provided in the section below.
 
