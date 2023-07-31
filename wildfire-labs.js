@@ -39,13 +39,10 @@ function getLab(email) {
         table_data += '<p>Enter this URL address in the browser’s URL area: <br><mark>'+lines[index][1]+'</mark></p>';
         table_data += '<p>Authentication with username: <mark>'+lines[index][2]+'</mark></p>';
         table_data += '<p>Using password: <mark>'+lines[index][5]+'</mark></p>';
-        table_data += '<h5>Or using a Remote Desktop Connection <small class="text-muted">(Preferred)</small></h5>';
-        table_data += '<p>Enter in the Computer area this host name: <br><mark>'+lines[index][3]+'</mark></p>';
-        table_data += '<p>Follow the PDF instructions above and authenticate with username: <br><mark>'+lines[index][4]+'</mark></p>';
-        table_data += '<p>Same password: <mark>'+lines[index][5]+'</mark></p>';
+
 
         table_data += '<h5>Exiting the lab</h5>';
-        table_data += '<p><strong>IMPORTANT: <br>Please DO NOT shutdown remote Windows system, just close the session or disconnect from the remote desktop. Otherwise you won&apos;t be able to reconnect.</strong></p>';
+        table_data += '<p><strong>IMPORTANT: <br>Please DO NOT shutdown remote Windows system, just close the session. Otherwise you won&apos;t be able to reconnect.</strong></p>';
     }
     $('#lab').html(table_data);
 }
