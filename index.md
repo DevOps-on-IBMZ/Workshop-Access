@@ -11,7 +11,7 @@ Thank you for attending this DevOps on IBM Z Workshop. On this page, you will fi
 
 ## Accessing the hands-on lab instances
 
-For the lab portion of the workshop, you will need to connect to a cloud hosted instance containing the necessary software. It is highly recommended to use remote desktop connection software, available for free on Mac and Windows. (Note: Windows by default should have "Remote Desktop Connection" installed, ready to use.)  Connection information will be provided in the section below.
+For the lab portion of the workshop, you will need to connect to a cloud hosted instance containing the necessary software. 
 
 - Click [here](https://github.com/DevOps-on-IBMZ/Workshop-Access/blob/main/Instructions%20to%20use%20the%20DevOps%20PoT%20remotely_Aug-18-2021.pdf) to read the instructions for IBM System access.
 
