@@ -17,7 +17,7 @@ For the lab portion of the workshop, you will need to connect to a cloud hosted 
 
 ## Lab Exercises
 
-During the session, we recommend having the lab workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
+During the session, we recommend having the corresponding lab workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
 
 - The workshop workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/33ab87692e5f4e446b7a587785c2e5955e14e384/Workbook%20-%20DevOps%20on%20Z%20PoT%20June-%202023.pdf) to view it locally.  It is also on the remote desktop sytem.  
 
