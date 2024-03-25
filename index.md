@@ -19,7 +19,7 @@ For the lab portion of the workshop, you will need to connect to a cloud hosted 
 
 During the session, we recommend having the corresponding lab workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
 
-- The main workshop workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/33ab87692e5f4e446b7a587785c2e5955e14e384/Workbook%20-%20DevOps%20on%20Z%20PoT%20June-%202023.pdf) to view it locally.  It is also on the remote desktop sytem.
+- The main workshop workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/1f8dca7e18b9fe7b6851e75e8af66163c82f4390/Workbook%20-%20DevOps%20on%20Z%20PoT%20Dillards.pdf) to view it locally.  It is also on the remote desktop sytem.
 - The ADDI workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/main/DevOps%20ADDI%20Hands-on%20Lab%20-%20Identify%20API%20candidates%20and%20refactoring%20effort%20from%20your%20code.pdf)
 to view it locally.
 
