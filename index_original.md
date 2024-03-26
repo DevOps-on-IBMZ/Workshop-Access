@@ -1,0 +1,42 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+<script src="./core-min.js"></script>
+<script src="./md5-min.js"></script>
+<script src="./wildfire-labs.js"></script>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+## Welcome
+
+Thank you for attending this DevOps on IBM Z Workshop. On this page, you will find links to lab connection instructions, workshop exercises and connection credentials.  Credentials are unique for each participant.
+
+
+## Accessing the hands-on lab instances
+
+For the lab portion of the workshop, you will need to connect to a cloud hosted instance containing the necessary software. 
+
+- Click [here](https://github.com/DevOps-on-IBMZ/Workshop-Access/blob/main/Instructions%20to%20use%20%20the%20DevOps%20PoT%20remotely%20August%2007%202023.pdf) to read the instructions for IBM System access.
+
+## Lab Exercises
+
+During the session, we recommend having the corresponding lab workbook open on another device (laptop/tablet) in order to maximize screen real estate for lab exercises.
+
+- The main workshop workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/1f8dca7e18b9fe7b6851e75e8af66163c82f4390/Workbook%20-%20DevOps%20on%20Z%20PoT%20Dillards.pdf) to view it locally.  It is also on the remote desktop sytem.
+- The ADDI workbook can be downloaded from [here](https://github.com/DevOps-on-IBMZ/Z-DevOps-Workshop-Workbook/blob/main/DevOps%20ADDI%20Hands-on%20Lab%20-%20Identify%20API%20candidates%20and%20refactoring%20effort%20from%20your%20code.pdf)
+to view it locally.
+
+**Please enter your email address used for registration to retrieve your unique log in details.**
+
+<form onsubmit="return false;">
+<div class="input-group mb-3 col-6">
+<span class="input-group-text" id="basic-addon1">@</span>
+<input type="email" class="form-control" placeholder="Registration Email" aria-label="Email" aria-describedby="basic-addon1" id="registration-email" maxlength="50" required oninput="validate();">
+</div>
+<div class="col-6">
+<button id="btn-submit" class="btn btn-primary" type="submit" onclick="getLab(document.getElementById('registration-email').value)" disabled>Submit</button>
+</div>
+</form>
+<div id="lab" class=".container .text-monospace">
+<em>Note you will need a confirmed registration to access the lab.</em>
+</div>
+
+## Help 
+Having trouble with labs? Send an email to [Wilbert Kho](mailto: wilbert@us.ibm.com) or [Vanessa Callaghan](mailto: vanessa.r.callaghan@ibm.com) and we will help you sort it out.
